@@ -1,11 +1,9 @@
 # 📸 Galeria de Telas & Evidências Visuais
 
-Esta pasta armazena as capturas de tela e GIFs de demonstração do sistema **Kairós** em funcionamento.
+Esta pasta contém as capturas de tela reais do sistema **Kairós** em execução.
 
-### Estrutura de Imagens Recomendada:
-- `01_registrador_rep_p.png`: Tela principal de bater ponto com o relógio atômico em tempo real e comprovante oficial com NSR e Hash SHA-256.
-- `02_painel_gestor_ptrp.png`: Dashboard gerencial com cartões de indicadores de presença, equipe em tempo real e triagem de ajustes/atestados médicos.
-- `03_espelho_ponto.png`: Grade mensal de batidas diárias, cálculo de saldo de banco de horas e status de assinatura eletrônica.
-- `04_tema_claro_escuro.png`: Comparação lado a lado do Design System em Modo Claro e Modo Escuro Deep Oceanic Cyan.
-
-*(Substitua as imagens desta pasta pelas capturas de tela do seu ambiente local).*
+### Telas Documentadas:
+1. **`01_registro_ponto_rep_p.png`**: Interface do colaborador para bater ponto com relógio atômico em tempo real, aviso passivo de tolerância/atraso (sem bloqueio de marcação perante a Portaria 671) e emissão de comprovante oficial.
+2. **`02_painel_gestor_ptrp.png`**: Painel do gestor de RH com identidade funcional, indicadores de presença em tempo real, gráficos de composição de jornada (Donut SVG), atividade semanal e despacho de equipe.
+3. **`03_espelho_ponto.png`**: Espelho de ponto eletrônico mensal com detalhamento diário de marcações realizadas, apuração de horas trabalhadas, saldo de banco de horas e assinatura eletrônica.
+4. **`04_prontuario_digital_ged.png`**: Prontuário eletrônico documental com pastas de governança para contratos, medidas disciplinares, atestados médicos com sigilo de CID (LGPD) e custódia com trilha de auditoria SHA-256.

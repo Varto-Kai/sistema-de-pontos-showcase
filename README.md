@@ -106,9 +106,15 @@ Você verá a execução de testes validando:
 
 ## 📸 Demonstração Visual da Interface
 
-A interface do Kairós foi projetada com alta convicção estética (anti-"AI slop"), fugindo de templates genéricos e adotando uma identidade visual de telemetria moderna inspirada em produtos corporativos de ponta:
+A interface do Kairós foi projetada com alta convicção estética (anti-"AI slop"), unificada na tipografia **Manrope**, cartões de precisão técnica e foco na eficiência diária do RH e dos colaboradores:
 
-*(Consulte a pasta [`docs/screenshots/`](docs/screenshots/) para orientações sobre as capturas de tela do sistema).*
+| 1. Registrador REP-P com Relógio Atômico em Tempo Real | 2. Painel do Gestor (PTRP & Telemetria de Equipe) |
+| :---: | :---: |
+| ![Registro de Ponto](docs/screenshots/01_registro_ponto_rep_p.png) | ![Painel Gestor](docs/screenshots/02_painel_gestor_ptrp.png) |
+
+| 3. Espelho de Ponto & Fechamento de Competência | 4. Prontuário Digital (GED) & Governança LGPD |
+| :---: | :---: |
+| ![Espelho de Ponto](docs/screenshots/03_espelho_ponto.png) | ![Prontuário Digital GED](docs/screenshots/04_prontuario_digital_ged.png) |
 
 ---
 
