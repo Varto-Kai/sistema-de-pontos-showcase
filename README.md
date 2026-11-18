@@ -118,16 +118,6 @@ A interface do Kairós foi projetada com alta convicção estética (anti-"AI sl
 
 ---
 
-## 🤝 Vamos Conversar? (Live Code Walkthrough)
-
-Se você é **recrutador técnico, Tech Lead ou gestor de contratação**, sei que olhar apenas um repositório de showcase pode deixar perguntas em aberto.
-
-Por isso, estou à disposição para um **Code Walkthrough ao vivo de 20 minutos**:
-- Mostro o sistema rodando localmente de ponta a ponta;
-- Compartilho minha tela e explico as decisões de código no backend e frontend;
-- Executo as suítes de testes automatizados e demonstro o fluxo de dados;
-- Explico como orquestrei as ferramentas de IA para alcançar essa produtividade sem abrir mão da qualidade.
-
 - **LinkedIn:** [https://www.linkedin.com/in/victorlmendes/](https://www.linkedin.com/in/victorlmendes/)
 - **GitHub:** [@Varto-Kai](https://github.com/Varto-Kai)
 - **E-mail:** [v.l.mendes17@gmail.com](v.l.mendes18@gmail.com)
