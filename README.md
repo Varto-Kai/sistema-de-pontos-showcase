@@ -21,7 +21,7 @@ Este repositório é um **Estudo de Caso Público** do sistema **Kairós**, uma 
 
 ---
 
-## 🚫 Por que este projeto NÃO é "Vibe Coding"?
+## Por que este projeto NÃO é "Vibe Coding"?
 
 Em 2025/2026, convencionou-se chamar de *"vibe coding"* o ato de abrir um chat de IA, digitar comandos genéricos (*"faça um sistema de ponto"*), colar código sem entender e torcer para compilar. 
 
@@ -29,7 +29,7 @@ Em sistemas críticos, **o "vibe coding" é uma receita para o desastre**:
 - No Brasil, um sistema de ponto eletrônico (**REP-P**) lida com a **Portaria MTP nº 671/2021**. Qualquer erro em cálculo de tolerância da CLT, cômputo de hora noturna ou supressão de intervalo gera **passivo trabalhista milionário** e autuações fiscais graves;
 - Se você pedir para uma IA comum fazer um CRUD de ponto, ela vai criar operações de `UPDATE` e `DELETE` em batidas — o que é **expressamente proibido por lei federal**.
 
-### 🏭 A Nossa Esteira de Produção com IA (AI-Assisted Rigor)
+### A Nossa Esteira de Produção com IA (AI-Assisted Rigor)
 
 Em vez de "vibe coding", montamos uma **esteira de engenharia guiada por restrições humanas**:
 
@@ -55,7 +55,7 @@ flowchart LR
 
 ---
 
-## 🏛️ Decisões de Arquitetura (ADR em Destaque)
+## Decisões de Arquitetura (ADR em Destaque)
 
 Para ilustrar o nível de maturidade arquitetural adotado, disponibilizamos o Registro de Decisão Arquitetural oficial:
 
@@ -64,7 +64,7 @@ Para ilustrar o nível de maturidade arquitetural adotado, disponibilizamos o Re
 
 ---
 
-## 🧪 Amostra Executável: Teste Você Mesmo em 10 Segundos!
+## Amostra Executável: Teste Você Mesmo em 10 Segundos!
 
 Para comprovar que a lógica foi desenvolvida com rigor matemático e cobertura de testes, disponibilizamos uma **amostra autocontida e higienizada** do motor puro de cálculo trabalhista na pasta [`samples/`](samples/).
 
@@ -128,6 +128,6 @@ Por isso, estou à disposição para um **Code Walkthrough ao vivo de 20 minutos
 - Executo as suítes de testes automatizados e demonstro o fluxo de dados;
 - Explico como orquestrei as ferramentas de IA para alcançar essa produtividade sem abrir mão da qualidade.
 
-- **LinkedIn:** [linkedin.com/in/victor-lacerda-dev](https://www.linkedin.com/in/victor-lacerda-dev)
+- **LinkedIn:** [https://www.linkedin.com/in/victorlmendes/](https://www.linkedin.com/in/victorlmendes/)
 - **GitHub:** [@Varto-Kai](https://github.com/Varto-Kai)
-- **E-mail:** [victor.lacerda@gbsnet.com.br](mailto:victor.lacerda@gbsnet.com.br)
+- **E-mail:** [v.l.mendes17@gmail.com](v.l.mendes18@gmail.com)
